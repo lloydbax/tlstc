@@ -53,6 +53,15 @@ img {
   max-width:100%;
   width:auto;
 }
+#accreditation img{
+  display: inline-block;
+}
+#accreditation .asltip{
+  max-height: 70px;
+  width: auto;
+  opacity: 0.5;
+  padding-left: 30px;
+}
 .owl-item img, .full-img {
   max-width:none;
   width:100%;

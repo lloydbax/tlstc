@@ -82,6 +82,8 @@ header {
 	padding: 0.5em 0.5em;
 }
 
+
+
 p.logo {
 	color: #fff;
 	font-family: 'Amatic SC', cursive;
@@ -227,9 +229,19 @@ p.logo strong {
 	line-height: 0;
 	visibility: hidden;
 }
+#about-us img {
+	padding: 6em;
+	border-radius: 75%;
+}
 #about-us article {
 	padding: 4em;
 }
+
+#about-us article strong {
+	font-family: 'Amatic SC', cursive;
+	font-size: 1.25em;
+}
+
 article h2 {
 	font-size: 4em;
 	font-weight: 900;
