@@ -417,6 +417,17 @@ a.tab-label:hover, a.tab-label.active-btn {
 	color: #fff;
 	font-size: 0.8em;
 }
+
+#services table {
+  	border-collapse: collapse;
+  	width: 100%;
+	font-size: 0.8em;
+}
+
+#services li {
+	color: #fff;
+	font-size: 0.8em;
+}
 #latest-news {
 	background: #f3f3f3 none repeat scroll 0 0;
 	box-shadow: 0px -10px 9px -11px rgba(0, 0, 0, 0.5);
