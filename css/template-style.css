@@ -239,7 +239,7 @@ p.logo strong {
 
 #about article strong {
 	font-family: 'Amatic SC', cursive;
-	font-size: 1.25em;
+	font-size: 1.45em;
 }
 
 article h2 {
@@ -396,14 +396,14 @@ a.tab-label:hover, a.tab-label.active-btn {
 	padding: 6em 2em;
 }
 #schools h2 {
-	color: #fff;
+	color: #00283a;
 	margin: 0 0 1.25em;
 }
 #schools h2.section-title:after {
-	background: #fff none repeat scroll 0 0;
+	background: #00283a none repeat scroll 0 0;
 }
 #schools i {
-	background: none repeat scroll 0 0 #fff;
+	background: none repeat scroll 0 0 #00283a;
 	border-radius: 80px;
 	color: #B7D9B8;
 	display: block;
@@ -420,13 +420,13 @@ a.tab-label:hover, a.tab-label.active-btn {
 	position: relative;
 }
 #schools h3 {
-	color: #fff;
-	font-size: 1em;
+	color: #00283a;
+	font-size: 1.5em;
 	font-weight: 700;
 	text-transform: uppercase;
 }
 #schools p {
-	color: #fff;
+	color: #00283a;
 	font-size: 0.8em;
 }
 
@@ -437,7 +437,7 @@ a.tab-label:hover, a.tab-label.active-btn {
 }
 
 #schools li {
-	color: #fff;
+	color: #00283a;
 	font-size: 0.8em;
 }
 #latest-news {
@@ -534,7 +534,7 @@ footer p, footer a:visited, footer a, footer a:hover {
 	color: #6c7c84;
 	font-size: 0.8em;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 928px) {
   header {
     position: relative;
   }
@@ -578,7 +578,7 @@ footer p, footer a:visited, footer a, footer a:hover {
     height: 51px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 928px) {
   .background-image {
     background-position: center;
   }

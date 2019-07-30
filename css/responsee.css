@@ -840,8 +840,8 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   .grid .l-row-12 {grid-row:span 12;}  
 }
  
-@media screen and (max-width:768px) {
-  .size-960,.size-1140,.size-1280,.size-1520 {max-width:768px;}
+@media screen and (max-width:928px) {
+  .size-960,.size-1140,.size-1280,.size-1520 {max-width:928px;}
   .hide-xxl,.hide-xl,.hide-l,.hide-s {display:initial!important;}
   .hide-m {display:none!important;}
   nav {
