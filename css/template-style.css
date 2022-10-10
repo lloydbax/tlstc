@@ -84,6 +84,7 @@ header {
 
 .covid {
  color: rgb(255, 255, 255);
+ background-color: red;
  text-align: center;
  font-size: 2em;
 }
